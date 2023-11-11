@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  11 NOV 2023 15:05
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  11 NOV 2023 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,17 +604,22 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 
 [1
 
-] [2] (./Report1.aux)
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
+8.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [2] [3] [4] (./Report1.aux)
 Package rerunfilecheck Info: File `Report1.out' has not changed.
-(rerunfilecheck)             Checksum: EC040997F6C2577B1C8F57AD975129E7;684.
+(rerunfilecheck)             Checksum: 131651124BBCD6DBCE243A002B253396;848.
  ) 
 Here is how much of TeX's memory you used:
- 12527 strings out of 479777
- 193095 string characters out of 5885797
- 490446 words of memory out of 5000000
- 30606 multiletter control sequences out of 15000+600000
- 528908 words of font info for 105 fonts, out of 8000000 for 9000
+ 12574 strings out of 479777
+ 194044 string characters out of 5885797
+ 490510 words of memory out of 5000000
+ 30642 multiletter control sequences out of 15000+600000
+ 539171 words of font info for 113 fonts, out of 8000000 for 9000
  309 hyphenation exceptions out of 8191
- 68i,6n,76p,262b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,76p,336b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Report1.dvi (2 pages, 10944 bytes).
+Output written on Report1.dvi (4 pages, 20180 bytes).
